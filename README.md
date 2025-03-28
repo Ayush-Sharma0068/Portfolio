@@ -1,4 +1,4 @@
 # Portfolio
 This is my first Git Repository
-<hr>
+<br>
 Author - Ayush Sharma
